@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://piengahvim.nickjudd.com/sitemap.xml
